@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06f87b9a.css",
+    "main.js": "/static/js/main.c595af6e.js",
+    "static/media/Dachi-the-Lynx.ttf": "/static/media/Dachi-the-Lynx.7bdbcca0f7d56fa985ac.ttf",
+    "static/media/Dachi-the-Lynx.otf": "/static/media/Dachi-the-Lynx.257de0db7e63c145b6da.otf",
+    "static/media/Dachi-the-Lynx.woff": "/static/media/Dachi-the-Lynx.a40ee32426ae1df29938.woff",
+    "static/media/Dachi-the-Lynx.woff2": "/static/media/Dachi-the-Lynx.edf89c0d65ca14ab6973.woff2",
+    "index.html": "/index.html",
+    "main.06f87b9a.css.map": "/static/css/main.06f87b9a.css.map",
+    "main.c595af6e.js.map": "/static/js/main.c595af6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06f87b9a.css",
+    "static/js/main.c595af6e.js"
+  ]
+}
